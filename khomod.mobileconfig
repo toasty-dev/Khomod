@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
 <dict>
 	<key>PayloadContent</key>
 	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>BlockAds</string>
+			<key>PayloadIdentifier</key>
+			<string>vevrl9air2.cloudflare-gateway.com.profile</string>
+			<key>PayloadOrganization</key>
+			<string>Khơindvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>EC9D5E9D-2978-4AD0-8087-1C65C866C50A.vevrl9air2.cloudflare-gateway.com</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
 		<dict>
 			<key>DNSSettings</key>
 			<dict>
