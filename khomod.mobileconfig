@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>ServerAddresses</key>
+				<array/>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>ocsp.apple.com</string>
+					<string>ocsp2.apple.com</string>
+					<string>certs.apple.com</string>
+					<string>crl.apple.com</string>
+					<string>valid.apple.com</string>
+					<string>mesu.apple.com</string>
+					<string>appattest.apple.com</string>
+					<string>vpp.itunes.apple.com</string>
+					<string>comm-main.ess.apple.com</string>
+					<string>comm-cohort.ess.apple.com</string>
+					<string>axm-app.apple.com</string>
+					<string>gdmf.apple.com</string>
+					<string>guzzoni-apple-com.v.aaplimg.com</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Anti-Revoke</string>
+			<key>PayloadIdentifier</key>
+			<string>khoindvn.bio.link.profile</string>
+			<key>PayloadOrganization</key>
+			<string>Khơindvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>5A31FA24-FF8C-41EA-989E-F070820F2A80.khoindvn.bio.link</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Small update to the dns, just simpler now. Made by, Khoindvn. Modded by Toasty.</string>
+	<key>PayloadDisplayName</key>
+	<string>AntiRevoke</string>
+	<key>PayloadIdentifier</key>
+	<string>khoindvn.cloudflare.warp.com.profile</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>BD3ED890-DA40-4169-8C30-4103233E17D0.dnsSettings.managed</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
