@@ -7,8 +7,10 @@
 		<dict>
 			<key>DNSSettings</key>
 			<dict>
-				<key>ServerAddresses</key>
-				<array/>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
 				<key>SupplementalMatchDomains</key>
 				<array>
 					<string>ocsp.apple.com</string>
@@ -26,24 +28,31 @@
 					<string>comm-main.ess.apple.com</string>
 				</array>
 			</dict>
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+					<key>Action</key>
+					<string>Connect</string>
+				</dict>
+			</array>
 			<key>PayloadDisplayName</key>
 			<string>Anti-Revoke</string>
 			<key>PayloadIdentifier</key>
 			<string>khoindvn.bio.link.profile</string>
 			<key>PayloadOrganization</key>
-			<string>Khơindvn</string>
+			<string>Antirevoke/Antiblacklist</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>5A31FA24-FF8C-41EA-989E-F070820F2A80.khoindvn.bio.link</string>
+			<string>khoindvn.bio.link</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>V0.2 Another Small update to the dns. Made by: Khoindvn. Modded by: Toasty.</string>
+	<string>Small dns fix. Made by: Khoindvn. Modded by: toasty.dev.</string>
 	<key>PayloadDisplayName</key>
-	<string>AntiRevoke</string>
+	<string>Anti-Revoke/Anti-Blacklist</string>
 	<key>PayloadIdentifier</key>
 	<string>khoindvn.cloudflare.warp.com.profile</string>
 	<key>PayloadScope</key>
@@ -51,8 +60,8 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>BD3ED890-DA40-4169-8C30-4103233E17D0.dnsSettings.managed</string>
+	<string>khoindvn.cloudflare-gateway.com.dnsSettings.managed</string>
 	<key>PayloadVersion</key>
-	<integer>1</integer>
+	<integer>v0.2</integer>
 </dict>
 </plist>
