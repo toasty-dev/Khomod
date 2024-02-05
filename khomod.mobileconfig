@@ -36,11 +36,11 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Chặn thu hồi ( Không chặn ADS )aaaaa ✅</string>
+			<string>Anti-revoke + Anti-Blacklist</string>
 			<key>PayloadIdentifier</key>
 			<string>khoindvn.bio.link.profile</string>
 			<key>PayloadOrganization</key>
-			<string>Blocking Cert Revocation No Block Ads</string>
+			<string>No more revokes?!</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -52,7 +52,7 @@
 	<key>PayloadDescription</key>
 	<string>Bug fix 1</string>
 	<key>PayloadDisplayName</key>
-	<string>DNS Khơindvn</string>
+	<string>Anti-Revoke + Anti-Blacklist</string>
 	<key>PayloadIdentifier</key>
 	<string>khoindvn.cloudflare.warp.com.profile</string>
 	<key>PayloadScope</key>
@@ -62,6 +62,6 @@
 	<key>PayloadUUID</key>
 	<string>khoindvn.cloudflare-gateway.com.dnsSettings.managed</string>
 	<key>PayloadVersion</key>
-	<integer>1</integer>
+	<integer>v0.2</integer>
 </dict>
 </plist>
