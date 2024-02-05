@@ -62,6 +62,6 @@
 	<key>PayloadUUID</key>
 	<string>khoindvn.cloudflare-gateway.com.dnsSettings.managed</string>
 	<key>PayloadVersion</key>
-	<integer>v0.2</integer>
+	<integer>1</integer>
 </dict>
 </plist>
