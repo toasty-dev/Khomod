@@ -50,7 +50,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Bug fix 1</string>
+	<string>Fixed the dns being unstable, Created by: Khoindvn. Modded by: toasty.dev</string>
 	<key>PayloadDisplayName</key>
 	<string>Anti-Revoke + Anti-Blacklist</string>
 	<key>PayloadIdentifier</key>
