@@ -50,7 +50,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Small bug fix, working again. Made by: Khoindvin, Modded by: toasty.dev.</string>
+	<string>Sorry for the oversight. Working again. Made by: Khoindvin, Modded by: toasty.dev.</string>
 	<key>PayloadDisplayName</key>
 	<string>Anti-Revoke + Adblock</string>
 	<key>PayloadIdentifier</key>
