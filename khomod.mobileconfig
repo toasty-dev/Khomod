@@ -22,7 +22,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Anti-Revoke + Adblock</string>
+			<string>Anti-revoke + Adblock</string>
 			<key>PayloadIdentifier</key>
 			<string>vevrl9air2.cloudflare-gateway.com.profile</string>
 			<key>PayloadType</key>
@@ -64,7 +64,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Anti-Revoke and Blacklist</string>
+			<string>Anti-revoke + Anti-Blacklist</string>
 			<key>PayloadIdentifier</key>
 			<string>khoindvn.bio.link.profile</string>
 			<key>PayloadType</key>
@@ -73,6 +73,7 @@
 			<string>dev.khoindvn.bio.link</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+		</dict>
 		<dict>
 			<key>PayloadCertificateFileName</key>
 			<string>MITM-CA.crt</string>
@@ -290,14 +291,14 @@
 			<integer>1</integer>
 		</dict>
 	</array>
-  <key>PayloadDescription</key>
-  <string>Finally fixed, a lot nicer now guys. Made by: Khoindvn, Tweaked by: Toasty.dev</string>
+	<key>PayloadDescription</key>
+	<string>Finally updated! Made by: Khoindvn, Tweaked by: Toasty.dev</string>
 	<key>PayloadDisplayName</key>
 	<string>Khomod DNS</string>
 	<key>PayloadIdentifier</key>
 	<string>khoindvn.cloudflare.warp.com.profile</string>
 	<key>PayloadOrganization</key>
-	<string>No revokes on cash money!?</string>
+	<string>No revokes on cash money.</string>
 	<key>PayloadScope</key>
 	<string>User</string>
 	<key>PayloadType</key>
